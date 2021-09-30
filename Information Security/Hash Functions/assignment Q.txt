@@ -1,1 +1,28 @@
+Assignment: 
 
+Use Linux/Unix commands (e.g., openssl, etc.) to do the following. Write the steps (with commands & outputs (images)).
+
+1) Verify the integrity of any software of your choice (e.g. Ubuntu). [Note: The hashcode (of that software) must be available on the software's website]
+
+2) Generate hashcodes of your name using SHA-256 and SHA-512 algorithm. 
+
+3) Using SHA-512, give an example of the avalanche effect using two different inputs (with a single bit difference) and their corresponding hashcodes. For example, Input1: 10101010 and Input2: 00101010. [You must not use the input values given in this example.]
+
+4) Verify the collision attack on SHA-1 (160-bit). Write the steps/commands/outputs used to verify the same.  [Note: https://shattered.io/] 
+
+5) Find the (svnit) department name whose hash code generated using SHA256 is as follows. [Note: Preimage Resistance Assignment]
+
+10010011100100101101110110110101
+10110101110101001010001001110001
+11011011000010011111111011100010
+11010110111000101100111111000111
+10001110011100110011110100110110
+11101110111011000001100111110101
+11011010000011111111111000101101
+00010101110110001111110001100111
+
+6) Find the "Input" (or message) whose last 20 bits of hashcode (SHA256) are as follows. [Note: Second Preimage/Weak Collision Resistance Assignment]
+   01010101010101010101
+   
+7) Find two "Inputs" (or messages) whose last 20 bits of hashcode (SHA256) are same. [Note: Strong Collision Resistance Assignment]   
+   
