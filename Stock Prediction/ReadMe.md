@@ -1,6 +1,6 @@
-Predicting stock price like RELIANCE on basis of different models and parameters.
+# Predicting stock price
+The data is taken from yahoo finance and then some machine learning methods are implemented to predict future VWAP(Volume weighted average price) of the stock
 
-The data is taken from yahoo finance.
-
-A Linear regression implementation code for predicting VWAP price 
-
+# Methods used:
+- Linear Regression
+- Xtreme Gradient Boost (XGBoost)
